@@ -36,7 +36,7 @@ Deploy to ECS
 
 ## Github action CICD implementation
 - Diagram
-![Diagram](images/Continuous-delivery-JavaWebApplication.drawio.png)
+![Diagram](images/githubActions-CICD.drawio.png)
 - Testing job
 ![Testing job](images/qualitygate-passed.png)
 - Sonar cloud
@@ -51,6 +51,16 @@ Deploy to ECS
 ![AWS ECS Service](images/ecs-service.png)
 - AWS ECS Service
 ![Load Balancer](images/load-balancer.png)
+- Marketplace Githubactions used
+![checkout](images/actions-checkout.png)
+- Marketplace Githubactions used
+![sonar-scanner](images/actions-sonnar-scanner.png)
+- Marketplace Githubactions used
+![sonar-qg](images/actions-sonar-qualitygate.png)
+- Marketplace Githubactions used
+![ecr](images/actions-aws-ecr.png)
+- Marketplace Githubactions used
+![ecs](images/actions-aws-ecs.png)
 
 # Prerequisites
 #####
