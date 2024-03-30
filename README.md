@@ -37,6 +37,8 @@ Deploy to ECS
 ## Github action CICD implementation
 - Diagram
 ![Diagram](images/githubActions-CICD.drawio.png)
+- CICD Github actions
+![cicd](images/cicd-githubactions.png)
 - Testing job
 ![Testing job](images/qualitygate-passed.png)
 - Sonar cloud
@@ -49,8 +51,10 @@ Deploy to ECS
 ![ECR](images/ecr-image.png)
 - AWS ECS Service
 ![AWS ECS Service](images/ecs-service.png)
-- AWS ECS Service
+- Load Balancer
 ![Load Balancer](images/load-balancer.png)
+- Target group healthy
+![tg](images/target-group-healthy.png)
 - Marketplace Githubactions used
 ![checkout](images/actions-checkout.png)
 - Marketplace Githubactions used
