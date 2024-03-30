@@ -1,3 +1,57 @@
+# Building my DevOps Portfolio 🚀
+
+## Project 9: Github Actions for CICD.
+One of the benefits of working at EY is Udemy for Business. I enrolled in the DevOps Projects | 20 Real-Time DevOps Projects course to enhance my DevOps portfolio and I’m sharing this process for educational purposes.
+
+
+### Marketplace Actions used: 
+🖤Checkout
+🖤Sonar scanner
+🖤Sonar Qualitygate
+🖤AWS ECR
+🖤AWS ECS Deploy task definition
+
+### Steps
+Github Setup 
+⏭️Fork git repo
+⏭️SSH Login
+⏭️Integrate with VSCode
+
+Test code
+⏭️Workflow & Job
+⏭️Maven & Checkstyle
+⏭️Sonar scanner
+⏭️Sonar cloud
+
+Build & Upload Image
+⏭️Job in workflow
+⏭️Build Docker image
+⏭️Upload AWS ECR
+
+Deploy to ECS
+⏭️Job in workflow
+⏭️Deploy ECS Task definition
+⏭️RDS for app container
+
+
+## Github action CICD implementation
+- Diagram
+![Diagram](images/Continuous-delivery-JavaWebApplication.drawio.png)
+- Testing job
+![Testing job](images/qualitygate-passed.png)
+- Sonar cloud
+![sonarcloud](images/sonarcloud.png)
+- Rule quality gate
+![Quality gate](images/qualitygaterule.png)
+- Testing quality gate failed with the rule set
+![Testing Quality gate failed](images/qg-failed.png)
+- AWS ECR
+![ECR](images/ecr-image.png)
+- AWS ECS Service
+![AWS ECS Service](images/ecs-service.png)
+- AWS ECS Service
+![Load Balancer](images/load-balancer.png)
+
 # Prerequisites
 #####
 - JDK 11
