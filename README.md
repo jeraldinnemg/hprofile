@@ -37,7 +37,7 @@ Deploy to ECS
 ## Github action CICD implementation
 - Diagram
 ![Diagram](images/githubActions-CICD.drawio.png)
-- CICD Github actions
+- CICD Github Actions Pipeline
 ![cicd](images/cicd-githubactions.png)
 - Testing job
 ![Testing job](images/qualitygate-passed.png)
