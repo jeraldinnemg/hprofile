@@ -5,33 +5,33 @@ One of the benefits of working at EY is Udemy for Business. I enrolled in the De
 
 
 ### Marketplace Actions used: 
-🖤Checkout
-🖤Sonar scanner
-🖤Sonar Qualitygate
-🖤AWS ECR
-🖤AWS ECS Deploy task definition
+- 🖤 Checkout
+- 🖤 Sonar scanner
+- 🖤 Sonar Qualitygate
+- 🖤 AWS ECR
+- 🖤 AWS ECS Deploy task definition
 
 ### Steps
 Github Setup 
-⏭️Fork git repo
-⏭️SSH Login
-⏭️Integrate with VSCode
+- ⏭️ Fork git repo
+- ⏭️ SSH Login
+- ⏭️ Integrate with VSCode
 
 Test code
-⏭️Workflow & Job
-⏭️Maven & Checkstyle
-⏭️Sonar scanner
-⏭️Sonar cloud
+- ⏭️ Workflow & Job
+- ⏭️ Maven & Checkstyle
+- ⏭️ Sonar scanner
+- ⏭️ Sonar cloud
 
 Build & Upload Image
-⏭️Job in workflow
-⏭️Build Docker image
-⏭️Upload AWS ECR
+- ⏭️ Job in workflow
+- ⏭️ Build Docker image
+- ⏭️ Upload AWS ECR
 
 Deploy to ECS
-⏭️Job in workflow
-⏭️Deploy ECS Task definition
-⏭️RDS for app container
+- ⏭️ Job in workflow
+- ⏭️ Deploy ECS Task definition
+- ⏭️ RDS for app container
 
 
 ## Github action CICD implementation
